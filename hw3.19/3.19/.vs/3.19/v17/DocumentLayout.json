@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150ACBDC-1C3B-44D4-A1BD-3979FEAF1D5F}|3.19\\3.19.vcxproj|C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{150ACBDC-1C3B-44D4-A1BD-3979FEAF1D5F}|3.19\\3.19.vcxproj|solutionrelative:3.19\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150ACBDC-1C3B-44D4-A1BD-3979FEAF1D5F}|3.19\\3.19.vcxproj|C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{150ACBDC-1C3B-44D4-A1BD-3979FEAF1D5F}|3.19\\3.19.vcxproj|solutionrelative:3.19\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\Header.h",
+              "RelativeDocumentMoniker": "3.19\\Header.h",
+              "ToolTip": "C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\Header.h",
+              "RelativeToolTip": "3.19\\Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T02:39:45.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\main.c",
+              "RelativeDocumentMoniker": "3.19\\main.c",
+              "ToolTip": "C:\\Users\\mikew\\Desktop\\Myproject\\hw3.19\\3.19\\3.19\\main.c",
+              "RelativeToolTip": "3.19\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-20T02:39:39.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
